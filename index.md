@@ -4,8 +4,8 @@ venue: "Macalester College"        # brief name of host site without address (e.
 address: "DeWitt Wallace Library, Room 250, 1600 Grand Avenue, St. Paul, MN 55105"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-latitude: "45"     # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-93"    # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "44.938714"     # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "-93.168201"    # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "Mar 16-17, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "8:30 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-03-16      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
